@@ -1,0 +1,52 @@
+html {
+    font-family: Trebuchet MS1, Trebuchet MS, sans-serif;
+}
+
+body {
+    color: #000;
+    background-color: #999;
+    font-size: 0.8rem;
+    line-height: 1rem;
+    font-family: Palatino Linotype, Book Antiqua3, Palatino, serif;
+}
+
+h1 {
+    font-size: 3.5rem;
+}
+
+h2,
+h1 {
+    text-shadow: black 0.1em 0.1em 0.2em;
+    color: #FFF;
+}
+
+h2 + p {
+    color: #FFF;
+    font-size: 1rem;
+    font-weight: normal;
+    line-height: 1.25rem;   
+}
+    
+
+ol {
+    border-top: 4px solid #000;
+    border-bottom: 4px solid #000;
+    border-right: 4px solid #000;
+    border-left: 4px solid #000;
+    background-color: #FFF;
+}
+
+ol li {
+    background-color: #FFF;
+}
+
+
+
+
+
+
+
+
+
+
+
